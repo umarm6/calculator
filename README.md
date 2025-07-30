@@ -1,2 +1,2 @@
-# calculator-
-Basic Calculator
+# calculator
+Basic Calculator with ai feature enhancment
